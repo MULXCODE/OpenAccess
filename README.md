@@ -15,4 +15,43 @@
 		objects/SAAM
 			e3.txt.bz2
 
+--Owning Units are internal Smithsonian acronyms. Below are a list of codes to descriptions.
+AAA -- Archives of American Art
+ACM -- Anacostia Community Museum
+CFCHFOLKLIFE -- Ralph Rinzler Folklife Archives and Collections
+CHNDM -- Cooper Hewitt, Smithsonian Design Museum
+EEPA -- Eliot Elisofon Photographic Archives
+FBR -- Smithsonian Field Book Project
+FSG -- Freer Gallery of Art and Arthur M. Sackler Gallery
+HAC -- Smithsonian Gardens
+HMSG -- Hirshhorn Museum and Sculpture Garden
+HSFA -- Human Studies Film Archives
+NAA -- National Anthropological Archives
+NASM -- National Air and Space Museum
+NMAAHC -- National Museum of African American History and Culture
+NMAH -- National Museum of American History
+NMAI -- National Museum of the American Indian
+NMAfA -- National Museum of African Art
+
+NMNH --- National Museum of Natural History
+NMNHANTHRO -- NMNH - Anthropology Dept.
+NMNHBIRDS -- NMNH - Vertebrate Zoology - Birds Division
+NMNHBOTANY -- NMNH - Botany Dept.
+NMNHEDUCATION -- NMNH - Education & Outreach
+NMNHENTO -- NMNH - Entomology Dept.
+NMNHFISHES -- NMNH - Vertebrate Zoology - Fishes Division
+NMNHHERPS -- NMNH - Vertebrate Zoology - Herpetology Division
+NMNHINV -- NMNH - Invertebrate Zoology Dept.
+NMNHMAMMALS -- NMNH - Vertebrate Zoology - Mammals Division
+NMNHMINSCI -- NMNH - Mineral Sciences Dept.
+NMNHPALEO -- NMNH - Paleobiology Dept.
+
+
+NPG -- National Portrait Gallery
+NPM -- National Postal Museum
+NZP -- Smithsonian's National Zoo & Conservation Biology Institute
+SAAM -- Smithsonian American Art Museum
+SIA -- Smithsonian Institution Archives
+SIL -- Smithsonian Libraries
+
 More information about Open Access at the Smithsonian as well as documentation on metadata schemas can be found at https://si.edu/openaccess and https://edan.si.edu/openaccess/docs/
